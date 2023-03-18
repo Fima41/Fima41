@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Fima41
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate m
-Any pythpn projects
+- 💞️ I’m looking to collaborate with Anyone in any python projects
 
 
 <!---
